@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: #513252
+  text-shadow: 1px 1px 1px grey, 2px 2px 1px grey;
+  front-size: 4rem;
+  text-align: center;
+}
+
+h2 {
+  color: #7A4069;
+}
+
+h3 {
+  color: #7A4069;
+}
+
+hr {
+  border-style: none;
+  border-top-style: ridge;
+  border-color: grey;
+  border-width: 3px;
+  border-bottom-style: ridge;
+}
+
+img {
+  height: 175
+}
